@@ -2,7 +2,7 @@
 <h2> I recreated the 'sort' bash program in C as a test for Progaming II discipline. </h2>
 
 </br>
-<p> There are some files with text prompt in textFiles directory. The program can be texted by running "make" in the project directory and </br>
+<p> There are some files with text prompt in textFiles directory. The program can be tested by running "make" in the project directory and </br>
 ./mysort textFiles/a textFiles/b textFiles/c textFiles/d textFiles/e </br>
 or, run "cd textFiles" and </br>
 ../mysort a b c d e
